@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as s,a as t}from"./index-6FWaOgBM.js";const c={components:{}},n={class:"home"},a=t("h1",null,"這是首頁",-1),_=[a];function r(d,i,p,l,m,f){return s(),o("div",n,_)}const u=e(c,[["render",r]]);export{u as default};
