@@ -6,7 +6,7 @@
             <RouterLink to="/about">關於我</RouterLink> |
             <RouterLink to="/products">產品列表</RouterLink> |
             <RouterLink to="/cart">購物車</RouterLink> |
-            <RouterLink to="/admin">前往後台</RouterLink>
+            <RouterLink to="/login">登入後台</RouterLink>
         </nav>
         <router-view></router-view>
     </div>
